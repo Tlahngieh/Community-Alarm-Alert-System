@@ -4,13 +4,13 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background-color: #f5f7fa;
-  color: #333;
+  background-color: Blue;
+  color: Blue;
 }
 
 /* Header */
 header {
-  background-color: #d32f2f;
+  background-color: Pink;
   color: white;
   text-align: center;
   padding: 1.5em 0;
@@ -65,12 +65,12 @@ button {
 }
 
 button:hover {
-  background-color: #b71c1c;
+  background-color: Blue;
 }
 
 /* Footer */
 footer {
-  background-color: #263238;
+  background-color:Blue;
   color: white;
   text-align: center;
   padding: 1em 0;
